@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="108c4bf2-b989-44c3-b1e5-ba3c5f80a4d1" name="Default" comment="" />
+    <list default="true" id="108c4bf2-b989-44c3-b1e5-ba3c5f80a4d1" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/the-iron-yard-logo.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4/taskHistory/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.4/taskHistory/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.4/taskHistory/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/3.4/taskHistory/taskHistory.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.4/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/3.4/taskHistory/taskHistory.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/CommandLineTest.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/CommandLineTest.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/test/TEST-CommandLineTest.xml" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-CommandLineTest.xml" />
+    </list>
     <ignored path="tiy-homework-command-line-practice.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -39,7 +50,7 @@
       <file leaf-file-name="CommandLineTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CommandLineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="-45">
               <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
@@ -1055,7 +1066,7 @@
       <option name="presentableId" value="Default" />
       <updated>1469628831392</updated>
       <workItem from="1469628836344" duration="3439000" />
-      <workItem from="1488382535785" duration="1734000" />
+      <workItem from="1488382535785" duration="2922000" />
     </task>
     <servers />
   </component>
@@ -1072,11 +1083,11 @@
     <history-entry file="CommandLineTest - 2017.03.01 at 11h 27m 46s.xml">
       <configuration name="CommandLineTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommandLineTest_misspellllledTxtRenamedTest - 2016.07.27 at 10h 56m 36s.xml">
-      <configuration name="CommandLineTest.misspellllledTxtRenamedTest" configurationId="JUnit" />
+    <history-entry file="CommandLineTest - 2017.03.01 at 12h 33m 48s.xml">
+      <configuration name="CommandLineTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommandLineTest_misspellllledTxtRenamedTest - 2016.07.27 at 10h 56m 49s.xml">
-      <configuration name="CommandLineTest.misspellllledTxtRenamedTest" configurationId="JUnit" />
+    <history-entry file="CommandLineTest - 2017.03.01 at 13h 01m 53s.xml">
+      <configuration name="CommandLineTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CommandLineTest_misspellllledTxtRenamedTest - 2016.07.27 at 10h 57m 04s.xml">
       <configuration name="CommandLineTest.misspellllledTxtRenamedTest" configurationId="JUnit" />
@@ -1092,7 +1103,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5180000" />
+    <option name="totallyTimeSpent" value="6368000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2" y="23" width="1440" height="773" extended-state="0" />
@@ -1107,7 +1118,7 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32977098" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.529771" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32366413" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -1241,7 +1252,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CommandLineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="-45">
           <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
           <folding />
         </state>
